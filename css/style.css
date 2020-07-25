@@ -1,0 +1,339 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+/*------------services----------------*/
+
+.services{
+	background-color: #17C2A4;
+	min-height: 800px;
+
+}
+
+.nazmul{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.ser_tet{
+	text-align: center;
+    padding-top: 130px;
+    
+}
+
+.ser_tet h1{
+	text-transform: uppercase;
+	font-size: 42px;
+	letter-spacing: 3px;
+	padding-bottom: 20px;
+	color: white;
+
+}
+
+.ser_tet hr{	
+	width: 8%;	
+	margin: 0 auto;
+	text-align: center;
+	background: #14A58C;
+	color: #14A58C;
+	text-decoration: none;
+	border: 2px solid #14A58C;
+}
+
+.nnnn p{
+	display: inline-block;
+    color: #f5ede9f0;
+    font-size: 20px;
+     font-weight: 500;
+    padding-top: 25px;
+}
+
+.booo{
+	display: flex;
+	padding-top: 80px;
+
+	text-align: center;
+}
+
+.booo h2{
+	color: white;
+	padding-top: 15px;
+	font-size: 1.5em;
+}
+
+
+.booo .ser p{
+	padding: 33px;
+   color: #f5ede9f0;
+    font-size: 18px;
+   
+}
+
+
+.booo .ser img{
+	display: block;
+	margin: 0 auto;
+	width: auto;
+}
+
+
+
+
+
+/*------------team----------------*/
+
+
+	
+   
+/*------------got skills----------------*/
+
+.text-center{
+	margin-right: 56px;
+}
+
+
+/*------portfolio start-------*/
+.portfolio{
+	background: #FFDD99;
+}
+.port-btn{
+	background: #
+}
+
+
+
+/*------about start-------*/
+.about{
+	background: #D74680;
+}
+.about-left{
+display: flex;
+}
+.img-fluid{
+	margin-top: -26px;
+}
+.font-italic{
+	font-size: 20px;
+    font-weight: 400;
+}
+
+span{
+	color: #FFDD99;
+}
+.nnnn{
+	font-size: 21px;
+    font-weight: 700;
+}
+
+.about-right{
+	display: flex;
+}
+/*-----------about end-------*/
+
+/*--------get in touch start---------*/
+.get-intouch{
+	background: #3c5499;
+}
+input[type="email"]{
+	background: #273a71;
+	padding: 0 5px;
+	color: white;
+}
+input[type="text"]{
+	background: #273a71;
+	padding: 0 5px;
+	color: white;
+}
+textarea[name="text"]{
+	background: #273a71;
+}
+
+
+
+
+
+
+/*---------media Query------*/
+
+@media only screen and (max-width: 770px){
+	.services{
+	background-color: #17C2A4;
+	min-height: 800px;
+
+}
+.nazmul{
+	width: 100%;
+	
+}
+.ser_tet{
+	text-align: center;
+    padding-top: 100px;
+    
+}
+.ser_tet h1{
+	text-transform: uppercase;
+	font-size: 24px;
+	letter-spacing: 2px;
+	padding-bottom: 20px;
+	color: white;
+
+}
+.ser_tet hr{	
+	width: 25%;	
+	
+}
+.nnnn p{
+	
+    
+    font-size: 14px;
+     font-weight: 500;
+     margin: 0 143px;
+   
+}
+.booo{
+	display: inline-block;
+	padding-top: 80px;
+	text-align: center;
+	margin-bottom: 20px;
+	padding: 20px;
+	
+}
+.booo h2{
+	color: white;
+	padding-top: 15px;
+	font-size: 20px;
+
+}
+
+.booo .ser p{
+	font-size: 14px;
+	margin: 0 80px;
+	font-weight: 500;
+	padding-top: 15px;
+}
+.booo .ser img{
+	display: block;
+	margin: 0 auto;
+	width: 25%;
+}
+/*--------service end ----------*/
+
+
+
+/*--------skill start------------*/
+
+.bg-danger{
+	text-align: center;
+	width: 100%;
+	color: white;
+	
+}
+.text-center{
+	margin: 0;
+
+}
+.pb-5{
+	margin: 40px 80px 0 80px;
+	
+}
+.w-25{
+	width: 8%;	
+	margin: 10px auto;
+	text-align: center;
+	background: #00C851;
+	color: #00C851;
+	text-decoration: none;
+	border: 0px solid #00C851;
+
+
+}
+.col-lg-3{
+	
+	margin-bottom: 50px;
+}
+.pt-3{
+	font-size: 20px;
+}
+
+.circlechart{
+
+}
+
+
+/*--------skill end ----------*/
+.about{
+	text-align: center;
+}
+.about-left,
+.about-right{
+display: inline-block;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+/*------------media queries----------------*/
+
+
+
+
+
